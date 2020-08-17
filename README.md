@@ -12,7 +12,7 @@ Human-centered Design | Problem Solver | Design Thinking | User Personas | Usabi
 
 Adobe XD | Sketch | CSS Expert | Sass | POST css | Less | Stylus
 
-**# My Tech Stack in 2020:**
+**My Tech Stack in 2020:**
 ```javascript
 const nicolasdiazoff = {
     askMeAbout: ["User Interface", "user experience", "Design", "javascript",],
