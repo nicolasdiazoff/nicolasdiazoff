@@ -20,6 +20,7 @@ const nicolasdiazoff = {
         backEnd: ["nodejs", "nest.js", "graphql", "rest"],
         fronEnd: ["react", "redux", "ES6", "TypeScript"],
         test: ["Jest", "Jasmine"],
+	editors: ["Vim", "vsCode"],
         mobileApp: ["react-native"],
         styles: ["css","scss","POST css","styled-components", "Stylus", "Less"],
         serverless: ["firebase","aws-lambda"],
